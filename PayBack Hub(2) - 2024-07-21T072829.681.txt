@@ -760,7 +760,7 @@ TabImage.ClipsDescendants = true
 TabImage.Visible = true
 TabImage.ZIndex = 2
 TabImage.Size = UDim2.new(1, 0, 1, 0)
-TabImage.Image = img or " rbxassetid://17747757759"
+TabImage.Image = img or "rbxassetid://17747757759"
 
 local MainFramePage = Instance.new("ScrollingFrame")
 
@@ -1124,7 +1124,7 @@ function main:Dropdown(text,clr,option,callback)
     DropImage.Position = UDim2.new(0, 280, 0, 6)
     DropImage.Rotation = 180.000
     DropImage.Size = UDim2.new(0, 20, 0, 20)
-    DropImage.Image = "rbxassetid://6031090990"
+    DropImage.Image = "rbxassetid://17747757759"
     
     DropButton.Name = "DropButton"
     DropButton.Parent = Dropdown
