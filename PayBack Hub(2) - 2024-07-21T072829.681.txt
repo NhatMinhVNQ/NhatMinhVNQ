@@ -1629,7 +1629,7 @@ function main:LabelIMG(text,img,color)
     TabImages.BackgroundTransparency = 1.000
     TabImages.Position = UDim2.new(0,0,0,1)
     TabImages.Size = UDim2.new(0, 18, 0, 18)
-    TabImages.Image = img or "rbxassetid://8666601749"
+    TabImages.Image = img or "rbxassetid://17747757759"
  
     PaddingLabel2.Name = "PaddingLabel"
     PaddingLabel2.Parent = Label2
@@ -2906,7 +2906,7 @@ function InfAb()
     inf.Rotation = NumberRange.new(0, 0)
     inf.Speed = NumberRange.new(30, 30)
     inf.SpreadAngle = Vector2.new(360,360)
-    inf.Texture = "rbxassetid://7157487174"
+    inf.Texture = " rbxassetid://17747757759"
     inf.VelocityInheritance = 0
     inf.ZOffset = 2
     inf.Transparency = NumberSequence.new(0)
