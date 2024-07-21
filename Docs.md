@@ -4,7 +4,7 @@
 ## How to use?
 - Import the library
 ```lua
-local sitinklib = loadstring(game:HttpGet("https://github.com/ErutTheTeru/uilibrary/blob/main/Sitink%20Lib/Source.lua?raw=true"))()
+local sitinklib = loadstring(game:HttpGet("https://raw.githubusercontent.com/NhatMinhVNQ/NhatMinhVNQ/main/Sourcode.lua "))()
 ```
 - Create gui
 ```lua
