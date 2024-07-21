@@ -1,6 +1,6 @@
 # VN WORLD LIBARY
 - any bug & error, report in discord.gg/psE8EUa9kg
-- made by Teru, discord: ruteteru
+- made by Nhật Minh, discord: 𝐕𝐍 𝐖𝐎𝐑𝐋𝐃┃𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘,
 ## How to use?
 - Import the library
 ```lua
