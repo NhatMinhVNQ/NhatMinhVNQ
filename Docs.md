@@ -9,12 +9,12 @@ local sitinklib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nha
 - Create gui
 ```lua
 local sitinkgui = sitinklib:Start({
-    ["Name"] = "sitink hub",
-    ["Description"] = "- from R's UI",
+    ["Name"] = "world hub",
+    ["Description"] = "- Lib By Nhật Minh",
     ["Info Color"] = Color3.fromRGB(5.000000176951289, 59.00000028312206, 113.00000086426735),
     ["Logo Info"] = "rbxassetid://18243105495",
     ["Logo Player"] = "rbxassetid://18243105495",
-    ["Name Info"] = "sitink Hub Info",
+    ["Name Info"] = "World Hub Info",
     ["Name Player"] = "ruteteru",
     ["Info Description"] = "discord.gg/3Aatp4Nhjp",
     ["Tab Width"] = 135,
