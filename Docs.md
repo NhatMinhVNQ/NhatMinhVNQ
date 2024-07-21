@@ -24,7 +24,7 @@ local sitinkgui = sitinklib:Start({
 ```
 - Now you can add items to the gui
 - A [template](Example.lua) is given if you want to see how items done
-# Sitink Library: Documentation
+# World Hub Library: Documentation
 ## Create gui
 ```lua
 local sitinkgui = sitinklib:Start({
